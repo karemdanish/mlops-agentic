@@ -1,0 +1,31 @@
+round,request_id,text,baseline_latency_ms,baseline_routing,baseline_success,agentic_latency_ms,agentic_routing,agentic_success
+1,1,"I really enjoyed this movie, it was brilliant!",123.97,sentiment,True,2407.1,sentiment,True
+1,2,Summarize this: Machine learning is a subset of artificial intelligence that enables systems to lear,4761.42,summarization,True,6299.94,summarization,True
+1,3,Find entities: Barack Obama served as president in Washington DC.,18.87,error,False,1825.25,sentiment,True
+1,4,This service is absolutely terrible and I want a refund.,96.3,sentiment,True,1124.43,sentiment,True
+1,5,Extract named entities: Jeff Bezos founded Amazon in Seattle Washington.,23.57,error,False,4626.02,summarization,True
+1,6,Brief summary: The stock market experienced significant volatility today due to inflation concerns.,3598.1,summarization,True,5376.92,summarization,True
+1,7,I am so happy with the quality of this product!,142.49,sentiment,True,1706.89,sentiment,True
+1,8,Who is mentioned: Satya Nadella leads Microsoft based in Redmond Washington.,2783.84,ner,True,1612.9,ner,True
+1,9,Condense this: Renewable energy sources like solar and wind are becoming increasingly cost competiti,97.36,sentiment,True,4468.07,summarization,True
+1,10,The customer support was horrible and completely unhelpful.,134.56,sentiment,True,1300.83,sentiment,True
+2,1,"I really enjoyed this movie, it was brilliant!",107.32,sentiment,True,1379.48,sentiment,True
+2,2,Summarize this: Machine learning is a subset of artificial intelligence that enables systems to lear,4592.61,summarization,True,6272.5,summarization,True
+2,3,Find entities: Barack Obama served as president in Washington DC.,266.7,ner,True,1673.26,ner,True
+2,4,This service is absolutely terrible and I want a refund.,105.3,sentiment,True,1401.15,sentiment,True
+2,5,Extract named entities: Jeff Bezos founded Amazon in Seattle Washington.,205.02,ner,True,2310.23,ner,True
+2,6,Brief summary: The stock market experienced significant volatility today due to inflation concerns.,3571.06,summarization,True,4776.68,summarization,True
+2,7,I am so happy with the quality of this product!,132.14,sentiment,True,1304.88,sentiment,True
+2,8,Who is mentioned: Satya Nadella leads Microsoft based in Redmond Washington.,194.41,ner,True,1395.32,ner,True
+2,9,Condense this: Renewable energy sources like solar and wind are becoming increasingly cost competiti,97.17,sentiment,True,4344.72,summarization,True
+2,10,The customer support was horrible and completely unhelpful.,144.28,sentiment,True,1312.51,sentiment,True
+3,1,"I really enjoyed this movie, it was brilliant!",98.79,sentiment,True,1400.2,sentiment,True
+3,2,Summarize this: Machine learning is a subset of artificial intelligence that enables systems to lear,4648.3,summarization,True,5762.49,summarization,True
+3,3,Find entities: Barack Obama served as president in Washington DC.,278.91,ner,True,2501.31,ner,True
+3,4,This service is absolutely terrible and I want a refund.,111.44,sentiment,True,1478.45,sentiment,True
+3,5,Extract named entities: Jeff Bezos founded Amazon in Seattle Washington.,219.62,ner,True,1597.0,ner,True
+3,6,Brief summary: The stock market experienced significant volatility today due to inflation concerns.,3477.59,summarization,True,5223.87,summarization,True
+3,7,I am so happy with the quality of this product!,109.06,sentiment,True,1805.62,sentiment,True
+3,8,Who is mentioned: Satya Nadella leads Microsoft based in Redmond Washington.,182.88,ner,True,1607.75,ner,True
+3,9,Condense this: Renewable energy sources like solar and wind are becoming increasingly cost competiti,84.47,sentiment,True,4493.53,summarization,True
+3,10,The customer support was horrible and completely unhelpful.,126.02,sentiment,True,1401.81,sentiment,True
