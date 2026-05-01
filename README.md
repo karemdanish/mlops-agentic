@@ -11,6 +11,7 @@
 ---
 
 ## Repository Structure
+```
 mlops-agentic/
 ├── models/
 │   ├── sentiment/
@@ -61,7 +62,7 @@ mlops-agentic/
 │   └── graph9_overall_dashboard.png
 │
 └── README.md
-
+```
 ---
 
 ## Prerequisites
