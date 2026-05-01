@@ -439,7 +439,7 @@ MIT License — feel free to use and modify for your research.
 ---
 
 ## Contact
-- Danish Karim — [danishkarim97@gmail.com
+- Danish Karim — danishkarim97@gmail.com
 - GitHub: https://github.com/karemdanish/mlops-agentic
 
 ## Results
